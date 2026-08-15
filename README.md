@@ -1,2 +1,1 @@
-
-Traffic Light Controller and UART Design – Digital Electronics & VLSI projects implemented and simulated in Xilinx Vivado
+Traffic Light Controller and UART Design - Digital Electronics & VLSI projects implemented and simulated in Xilinx ISE Design Suite 14.7
